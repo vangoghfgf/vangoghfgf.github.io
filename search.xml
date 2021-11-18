@@ -4,6 +4,48 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2021/11/18/test/"/>
+      <url>/2021/11/18/test/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>This is a writing test</title>
+      <link href="/2021/11/18/markdown-writing-test/"/>
+      <url>/2021/11/18/markdown-writing-test/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Markdown-writing-test"><a href="#Markdown-writing-test" class="headerlink" title="Markdown writing test"></a>Markdown writing test</h1><h2 id="markdown-writing-test"><a href="#markdown-writing-test" class="headerlink" title="#markdown writing test"></a>#markdown writing test</h2><p>“ctrl + 123456” –1-6 level title</p><p>“ctrl+0” –paragraph</p><p><em>斜体</em> <strong>粗体</strong> <em><strong>加粗斜体</strong></em> <del>删除线</del></p><p>“ctrl + I”斜体</p><p>”ctrl + B“ 粗体</p><p>“ctrl + U” 下划线</p><p>“alt+shift+5” 删除线</p><p>引用： &gt; 文字引用</p><p>“ctrl + shift +Q”</p><p>‘行内代码’</p><p>‘’’</p><p> 多行代码</p><p>多行代码</p><p>‘’’</p><p>“ ctrl+shift+’ ‘”</p><p>“ctrl+shift+K”</p><h2 id="公式输入"><a href="#公式输入" class="headerlink" title="公式输入"></a>公式输入</h2><p>$$<br>数学公式<br>$$</p><p>快捷键：ctrl+shift+M</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> category </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> writing </tag>
+            
+            <tag> markdown </tag>
+            
+            <tag> test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/11/17/hello-world/"/>
       <url>/2021/11/17/hello-world/</url>

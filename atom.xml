@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>fgf&#39;web</title>
+  <title>Firelink-Shrine</title>
   
-  
+  <subtitle>Nameless Hero</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-17T05:08:55.956Z</updated>
+  <updated>2021-11-18T07:18:20.835Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2021/11/18/test/"/>
+    <id>http://example.com/2021/11/18/test/</id>
+    <published>2021-11-18T07:18:20.000Z</published>
+    <updated>2021-11-18T07:18:20.835Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>This is a writing test</title>
+    <link href="http://example.com/2021/11/18/markdown-writing-test/"/>
+    <id>http://example.com/2021/11/18/markdown-writing-test/</id>
+    <published>2021-11-18T07:00:00.000Z</published>
+    <updated>2021-11-18T07:43:58.585Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Markdown-writing-test&quot;&gt;&lt;a href=&quot;#Markdown-writing-test&quot; class=&quot;headerlink&quot; title=&quot;Markdown writing test&quot;&gt;&lt;/a&gt;Markdown writing</summary>
+        
+      
+    
+    
+    
+    <category term="category" scheme="http://example.com/categories/category/"/>
+    
+    
+    <category term="writing" scheme="http://example.com/tags/writing/"/>
+    
+    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
